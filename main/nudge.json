@@ -37,7 +37,7 @@
             "actionButtonPath": "/System/Library/PreferencePanes/SoftwareUpdate.prefPane",
             "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
             "requiredInstallationDate": "2023-06-30T00:00:00Z",
-            "requiredMinimumOSVersion": "13.7.1",
+            "requiredMinimumOSVersion": "13.8.1",
             "targetedOSVersionsRule": "default"
         }
     ],
@@ -79,20 +79,20 @@
         "updateElements": [
             {
                 "_language": "en",
-                "actionButtonText": "Update Device",
+                "actionButtonText": "Get Software Device",
                 "customDeferralButtonText": "Custom",
                 "customDeferralDropdownText": "Defer",
                 "informationButtonText": "More Info",
-                "mainContentHeader": "Your device will restart during this update this is from 1:11 pm",
-                "mainContentNote": "Important Notes from IT team",
-                "mainContentSubHeader": "Updates can take around 222222 minutes to complete",
-                "mainContentText": "A fully up-to-date device is required to ensure that IT can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.",
+                "mainContentHeader": "Your device will restart during the update process",
+                "mainContentNote": "Important Notes",
+                "mainContentSubHeader": "Updates can take up to an hour to complete",
+                "mainContentText": "A fully up-to-date device is required to ensure that IT can accurately protect your device.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.",
                 "mainHeader": "Your device requires a security update",
                 "oneDayDeferralButtonText": "One Day",
                 "oneHourDeferralButtonText": "One Hour",
                 "primaryQuitButtonText": "Later",
                 "secondaryQuitButtonText": "I understand",
-                "subHeader": "A friendly reminder from your local IT team"
+                "subHeader": "A friendly reminder from IT"
             },
             {
                 "_language": "es",
