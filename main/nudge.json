@@ -37,7 +37,7 @@
             "actionButtonPath": "/System/Library/PreferencePanes/SoftwareUpdate.prefPane",
             "majorUpgradeAppPath": "/Applications/Install macOS Big Sur.app",
             "requiredInstallationDate": "2023-06-30T00:00:00Z",
-            "requiredMinimumOSVersion": "13.8.1",
+            "requiredMinimumOSVersion": "13.7.1",
             "targetedOSVersionsRule": "default"
         }
     ],
