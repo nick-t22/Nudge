@@ -75,13 +75,13 @@
         "screenShotLightPath": "https://raw.githubusercontent.com/nick-t22/Nudge/main/04iuiyBZ61YPzdVS4GfRYKM-29.jpg",
         "showDeferralCount": true,
         "simpleMode": false,
-        "singleQuitButton": false,
+        "singleQuitButton": true,
         "updateElements": [
             {
                 "_language": "en",
                 "actionButtonText": "Get Software Update",
                 "customDeferralButtonText": "Custom",
-                "customDeferralDropdownText": "Defer",
+                "customDeferralDropdownText": "Postpone Update",
                 "informationButtonText": "More Info",
                 "mainContentHeader": "Your device will restart during the update process",
                 "mainContentNote": "Important Notes",
