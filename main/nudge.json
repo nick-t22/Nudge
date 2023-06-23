@@ -46,7 +46,7 @@
         "allowLaterDeferralButton": true,
         "allowUserQuitDeferrals": true,
         "allowedDeferrals": 1000000,
-        "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
+        "allowedDeferralsUntilForcedSecondaryQuitButton": 10,
         "approachingRefreshCycle": 6000,
         "approachingWindowTime": 72,
         "calendarDeferralUnit": "imminentWindowTime",
@@ -65,7 +65,7 @@
         "randomDelay": false
     },
     "userInterface": {
-        "actionButtonPath": "munki://updates",
+        "actionButtonPath": "/System/Library/PreferencePanes/SoftwareUpdate.prefPane",
         "fallbackLanguage": "en",
         "forceFallbackLanguage": false,
         "forceScreenShotIcon": false,
@@ -74,7 +74,7 @@
         "screenShotDarkPath": "https://raw.githubusercontent.com/nick-t22/Nudge/main/04iuiyBZ61YPzdVS4GfRYKM-29.jpg",
         "screenShotLightPath": "https://raw.githubusercontent.com/nick-t22/Nudge/main/04iuiyBZ61YPzdVS4GfRYKM-29.jpg",
         "showDeferralCount": true,
-        "simpleMode": false,
+        "simpleMode": true,
         "singleQuitButton": false,
         "updateElements": [
             {
