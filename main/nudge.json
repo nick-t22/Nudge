@@ -79,7 +79,7 @@
         "updateElements": [
             {
                 "_language": "en",
-                "actionButtonText": "Get Software Device",
+                "actionButtonText": "Get Software Update",
                 "customDeferralButtonText": "Custom",
                 "customDeferralDropdownText": "Defer",
                 "informationButtonText": "More Info",
