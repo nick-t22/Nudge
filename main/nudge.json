@@ -67,7 +67,7 @@
     "userInterface": {
         "actionButtonPath": "/System/Library/PreferencePanes/SoftwareUpdate.prefPane",
         "fallbackLanguage": "en",
-        "forceFallbackLanguage": false,
+        "forceFallbackLanguage": true,
         "forceScreenShotIcon": false,
         "iconDarkPath": "/somewhere/logoDark.png",
         "iconLightPath": "/somewhere/logoLight.png",
