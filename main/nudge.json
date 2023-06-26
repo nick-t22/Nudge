@@ -49,7 +49,7 @@
         "informationButtonText": "More Info",
         "mainContentHeader": "Your device will restart during this update",
         "mainContentNote": "Important Notes",
-        "mainContentSubHeader": "Updates can take around 10-15 minutes to complete.",
+        "mainContentSubHeader": "Updates can take up to 30 minutes to complete.",
         "mainContentText": "A fully up-to-date device is required to ensure the security of Vercel systems.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps. If there does not appear to be any available updates, please restart your Mac and try the update again.",
         "mainHeader": "Your device requires a macOS Update",
         "primaryQuitButtonText": "Later",
