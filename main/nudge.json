@@ -39,8 +39,6 @@
     "forceScreenShotIcon": false,
     "iconDarkPath": "/tmp/nudge/vercelmdm_dk.png",
     "iconLightPath": "/tmp/nudge/vercelmdm_lt.png",
-    "screenShotDarkPath": "/tmp/nudge/updateDark.png",
-    "screenShotLightPath": "/tmp/nudge/updateLight.png",
     "showDeferralCount": true,
     "simpleMode": false,
     "singleQuitButton": false,
